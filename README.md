@@ -1,16 +1,13 @@
-# acad
-A central repo for academic coursework and references from my academic life.
-
 # 📚 ae1207/acad
 
 A central repository for my academic coursework, notes, and references throughout my university journey.  
-This includes assignments, lab exercises, study notes, and project files across multiple subjects and semesters.
+This includes assignments(maybe), lab exercises(maybe), and project files across multiple subjects and semesters.
 
 ## 📂 Contents
 
-- 📝 Assignments  
-- 💻 Lab Work  
-- 📖 Notes & References  
+- 📝 Assignments  (maybe)
+- 💻 Lab Work  (maybe)
+- 📖 Notes & References  (maybe)
 - 📂 Project Files
 
 ## 🎓 Purpose
