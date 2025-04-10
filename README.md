@@ -18,4 +18,4 @@ To organize and archive my academic progress, make study materials easily access
 
 > 🚧 This repo is constantly being updated as I progress through my academic journey.
 
-ai ahh description
+> ai ahh description
