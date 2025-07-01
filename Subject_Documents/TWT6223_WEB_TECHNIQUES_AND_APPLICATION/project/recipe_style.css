@@ -1,0 +1,142 @@
+/* Basic Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+h2 {
+    color: #333;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#errorMessage {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: red;
+}
+
+#recipeResults {
+    margin-top: 20px;
+}
+
+.recipe {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.recipe h3 {
+    color: #4CAF50;
+}
+
+.recipe p {
+    font-size: 1rem;
+    color: #666;
+}
+
+.meal-thumbnail {
+    width: 25%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.recipe ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recipe ul li {
+    font-size: 1rem;
+    color: #666;
+}
+
+#categories {
+    margin-top: 40px;
+}
+
+#categoryList {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#categoryList div {
+    margin: 5px 15px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+#categoryList div:hover {
+    background-color: #45a049;
+}
+
+/* Back Button Styling */
+.back-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 1000; /* Ensure it stays on top */
+}
+
+.back-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.back-btn:hover {
+    background-color: #45a049;
+}
